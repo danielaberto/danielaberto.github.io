@@ -43,6 +43,11 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+figcaption { 
+    display: block;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
